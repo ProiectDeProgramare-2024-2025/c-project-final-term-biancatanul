@@ -1,0 +1,4 @@
+Ana 20
+Ion 20
+Diana 10
+Maria 20
