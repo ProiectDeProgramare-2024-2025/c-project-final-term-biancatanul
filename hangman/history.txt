@@ -1,0 +1,9 @@
+Ana 2 1
+R orange
+R lemon
+W lemon
+Ion 2 0
+R carrot
+R garlic
+Bia 1 0
+R banana
